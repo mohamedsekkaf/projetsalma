@@ -1,0 +1,66 @@
+*{
+    font-family: sans-serif;
+}
+ul{
+    float: right;
+    margin-right: 40px;
+    line-height: 80px;
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    font-size: 25px;
+    color: white;
+    padding: 10px 10px;
+    background-image: linear-gradient(to left top, #009eff, #00b2ff, #00c5ff, #00d7ff, #1ae7ff);    border-radius: 10px;
+    text-decoration: none;
+
+}
+nav{
+    height: 80px;
+    background-color: aqua;
+}
+.logoimg{
+    height: 80px;
+}
+.logo{
+    line-height: 80px;
+}
+.ajouter{
+    width: 40px;
+}
+.btn1{
+    width: 60vh;
+    border-radius: 10px;
+    text-align: center;
+    background-image: linear-gradient(to left top, #1dcbcb, #1aced0, #16d2d6, #13d5db, #0fd8e1);
+}
+.card{
+    text-align: center;
+}
+.table1{
+    width: 100%;
+}
+.td1{
+    width: 20%;
+}
+.td2{
+    width: 80%;
+}
+.btn2{
+    padding: 10px 40px 10px 40px ;
+    background-image: linear-gradient(to left top, #0087ff, #00a3ff, #00bcff, #00d3ff, #1ae7ff);    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 10px;
+}
+th{
+    border: 2px solid black;
+}
+.tdd{
+    border: 2px solid black;
+}
+.btnr{
+    line-height: 80px;
+    height: 40px;
+}
